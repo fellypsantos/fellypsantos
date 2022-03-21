@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on React Native Development
-- 🌱 I’m currently learning Unity Game Engine
+- 🌱 I’m currently learning Typescript + ReactJS + React Native
 - 💬 Ask me about anything :)
 - 📫 You can find some useful links below to contact me.
 - ⚡ Fun fact: I'm not fat, I'm big boned.
