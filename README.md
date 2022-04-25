@@ -1,7 +1,5 @@
 ### Hi! My name is Fellyp Santos, I'm glad you here! Feel free to explore my projects or contact me. 👋
 
-![counter](https://en8aom380tlaqap.m.pipedream.net)
-
 
 - 🔭 I’m currently working on React Native Development
 - 🌱 I’m currently learning Typescript + ReactJS + React Native
