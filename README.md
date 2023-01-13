@@ -8,11 +8,13 @@
 - 📫 You can find some useful links below to contact me.
 - ⚡ Fun fact: I'm not fat, I'm big boned.
 
+<!--
 <div align="center">
   <a href="https://github.com/fellypsantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fellypsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fellypsantos&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Fellyp-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
