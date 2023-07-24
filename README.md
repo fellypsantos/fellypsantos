@@ -1,8 +1,7 @@
 ### Hi! My name is Fellyp Santos, I'm glad you here! Feel free to explore my projects or contact me. 👋
 
 
-- 💻 I’m currently working with C# for Desktop Development
-- 🌱 I’m currently learning Laravel Framework with code patterns (Services, Repositories, Contracts, Tests)
+- 💻 I’m currently working with ReactNative and PHP Development.
 - 💬 Ask me about anything :)
 - 📫 You can find some useful links below to contact me.
 - ⚡ Fun fact: I'm not fat, I'm big boned.
